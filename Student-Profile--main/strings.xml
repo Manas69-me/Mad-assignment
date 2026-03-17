@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentProfileApplication</string>
+    <string name="student_name">G. Krishna Manas</string>
+    <string name="roll_number">Roll No: A23126552205</string>
+    <string name="course">Course: CSM</string>
+    <string name="email">Email: krishnamanas19@gmail.com</string>
+    <string name="show_details">Show Details</string>
+</resources>
